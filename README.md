@@ -1,4 +1,4 @@
-# Zepto Sales & Inventory Management System (SQL Project)
+# 🛒 Zepto Sales & Inventory Management System (SQL Project)
 
 # Project Overview
 This SQL project transforms raw CSV data into a well-structured, relational database with clean tables, relationships, and analytical insights.
