@@ -43,7 +43,7 @@ Used for initial CSV import → cleaned → inserted into normalized tables.
 
 * Trimmed spaces + standardized text
 
-Converted data types: price → DECIMAL, weight → INT, etc.
+* Converted data types: price → DECIMAL, weight → INT, etc.
 
 * Normalized data to 3NF
 
