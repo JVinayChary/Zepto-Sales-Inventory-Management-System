@@ -62,4 +62,4 @@ This project demonstrates practical skills in database design, SQL querying, dat
 It is a complete end-to-end solution to understand how real e-commerce systems, like Zepto, manage products, stock, orders, payments, and deliveries.
 
 # Author 
-JANGAM VINAY cHARY SQL | Data Analytics
+JANGAM VINAY CHARY SQL | Data Analytics
